@@ -27,6 +27,7 @@ function menubasics() {
   // support for credits, pause, and other menus, on both title screen, and in game
 }
 
-function boxmenus() {
-  // pause, credits, and anything with text go here
+
+function startbutton() {
+  // adds grayscale filter over canvas with play button in the middle, having to click it to start
 }
